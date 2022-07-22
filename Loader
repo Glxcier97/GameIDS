@@ -1,0 +1,4 @@
+local PlaceId = game.PlaceId
+if PlaceId == 286090429 then
+  
+end

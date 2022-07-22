@@ -1,4 +1,4 @@
 local PlaceId = game.PlaceId
 if PlaceId == 286090429 then
-  
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/Glxcier97/Hellz/main/Script'))()
 end
